@@ -1,7 +1,7 @@
 {
   "name": "get-key-range",
   "description": "Gets value from object whose key is in a certain range",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "author": "Rahat Ahmed",
