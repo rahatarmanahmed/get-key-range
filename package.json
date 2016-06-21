@@ -6,6 +6,7 @@
   "main": "lib/index.js",
   "author": "Rahat Ahmed",
   "repository": "rahatarmanahmed/get-key-range",
+  "keywords": ["get", "object", "key", "range", "number"],
   "scripts": {
     "lint": "eslint lib/ test/",
     "test": "ava test/",
