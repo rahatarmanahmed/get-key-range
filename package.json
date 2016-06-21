@@ -1,12 +1,18 @@
 {
   "name": "get-key-range",
   "description": "Gets value from object whose key is in a certain range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "author": "Rahat Ahmed",
   "repository": "rahatarmanahmed/get-key-range",
-  "keywords": ["get", "object", "key", "range", "number"],
+  "keywords": [
+    "get",
+    "object",
+    "key",
+    "range",
+    "number"
+  ],
   "scripts": {
     "lint": "eslint lib/ test/",
     "test": "ava test/",
