@@ -1,5 +1,7 @@
 # get-key-range [![Build Status](https://travis-ci.org/rahatarmanahmed/get-key-range.svg?branch=master)](https://travis-ci.org/rahatarmanahmed/get-key-range)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rahatarmanahmed/get-key-range.svg)](https://greenkeeper.io/)
+
 Gets value from object whose key is in a certain range. For range format, see example below or the README for [is-in-range](http://npm.im/is-in-range). Only positive ranges are allowed.
 
 If the ranges overlap, it will return the first satisfying range in the order given by `Object.keys()`.
