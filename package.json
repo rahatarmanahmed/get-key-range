@@ -20,11 +20,11 @@
     "prepublish": "npm run test"
   },
   "devDependencies": {
-    "ava": "^0.15.2",
-    "babel-eslint": "^6.0.4",
-    "eslint": "^2.13.0",
+    "ava": "^0.19.1",
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
     "eslint-config-kellyirc": "^3.1.0",
-    "onchange": "^2.5.0"
+    "onchange": "^3.2.1"
   },
   "dependencies": {
     "is-in-range": "^1.0.0"
